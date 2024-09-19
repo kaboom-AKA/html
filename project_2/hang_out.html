@@ -1,0 +1,74 @@
+<!---this is a static web page that display my hang out today with my friends-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Trip with Friends</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 20px;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .photo {
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            overflow: hidden;
+            background-color: white;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+        }
+        .photo img {
+            width: 100%;
+            height: auto;
+        }
+        .reflection {
+            padding: 15px;
+        }
+        .reflection h3 {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My Trip with Friends</h1>
+    <p>Here are some of the amazing moments I captured during my trip with friends, along with reflections on each photo.</p>
+
+    <div class="gallery">
+        <!-- tower -->
+        <div class="photo">
+            <img src="photos/tower.jpg" alt="At the beach">
+            <div class="reflection">
+                <h3>Light display for mid authum festival</h3>
+                <p>This was one of the best days. We too alot of polorid pictures and spend time adventuring the place. The lights show was mesmerisng </p>
+            </div>
+        </div>
+
+        <!-- icecream -->
+        <div class="photos">
+            <img src="photo2/ice_cream.jpg" alt="ice-cream">
+            <div class="reflection">
+                <h3>ice cream waffle</h3>
+                <p>the ice cream portion is huge and shared amongst 3 person. it is very savaory as it has strawberry taste with vanila icream. it is also topped with flowers and ostmastis jelly. defionetely go back again</p>
+            </div>
+        </div>
+
+        <!-- toast -->
+        <div class="photo">
+            <img src="photos/toast.jpg" alt="toast">
+            <div class="reflection">
+                <h3>caffe hoping</h3>
+                <p>we excided our budget by abit but the food was amazing and worth to try</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
