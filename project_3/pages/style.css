@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(122, 212, 209);
+    background-attachment: scroll;
+    background-size: auto;
+}
+
+header 
+{ 
+    color: rgb(255, 255, 255); 
+    padding: 50px; 
+    text-align: center; 
+}
+
+header img {
+    width: 500px;  
+    height: auto;  
+    float: left;
+    padding: 40px;
+    border-radius: 20%;  
+    border: 20px solid rgb(19, 90, 234); 
+}
+

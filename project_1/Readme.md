@@ -19,36 +19,10 @@ This is a simple HTML webpage that provides information on five classifications 
 - **CSS (Inline Styling)**: Used for basic design and layout enhancements.
 
 ## Getting Started
-To view the webpage, simply open the `index.html` file in any modern web browser. Make sure all the image files are located in the `images` directory.
+To view the webpage, simply open the `class_animal.html` file in any modern web browser. Make sure all the image files are located in the `images` directory.
 
 1. Download or clone the repository.
-2. Open the `index.html` file in your browser.
-
-## Code Highlights
-
-Here are some important code snippets:
-
-- **Heading and Styling**:
-    ```html
-    <h1 style="color: white; background-color: #394ae1; font-size: 2.5em; text-align: center;">
-        5 Classifications of Animals
-    </h1>
-    ```
-
-- **Section Example**:
-    ```html
-    <div class="content-section">
-        <h2>What lets us classify an animal as a bird?</h2>
-        <p>Birds are warm-blooded vertebrates characterized by feathers, which aid in flight, insulation, and communication...</p>
-        <a href="https://en.wikipedia.org/wiki/Bird">Learn more about birds</a>
-        <img src="images/bird.webp" width="200" height="200" alt="Image of a bird">
-    </div>
-    ```
-
-## Screenshots
-Here's a preview of the webpage:
-
-![Screenshot](images/screenshot.png)
+2. Open the `iclass_animal.html` file in your browser.
 
 ## Acknowledgments
 - **Inspiration**: The project was inspired by a desire to showcase the diversity of animal classifications.
