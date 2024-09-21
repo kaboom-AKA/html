@@ -1,14 +1,15 @@
 # Multipage Website
 
-This is a simple HTML webpage to introduce myself. There are 4 different pages, with 1 being the main home page and 3 additional pages used to showcase:
+This is a simple HTML webpage to introduce myself. There are 4 different pages, with 1 being the main home page and 4 additional pages used to showcase:
 - **About Me and Programming**
 - **My Hobbies**
 - **My Achievements**
+- **Links**
 
 ## What's Inside My Home Page:
 - My name and a picture of myself.
 - A navigation bar to easily access the different pages.
-- Links to my social media accounts.
+
 
 ## What's Inside "Me and Programming"
 - When I started programming.
@@ -20,6 +21,9 @@ This is a simple HTML webpage to introduce myself. There are 4 different pages, 
 
 ## What's Inside "My Achievements"
 - A list of accomplishments and things I am proud of.
+
+## What's Inside "links"
+- Links to my social media accounts.
 
 ## Technologies Used
 - **HTML5**: For structuring the webpage.
