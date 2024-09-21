@@ -54,5 +54,3 @@ Here's a preview of the webpage:
 - **Inspiration**: The project was inspired by a desire to showcase the diversity of animal classifications.
 - **Special Thanks**: Wikipedia for the informative content and my curiosity about animal groups!
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
