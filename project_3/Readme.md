@@ -16,12 +16,6 @@ This is a simple HTML webpage to introduce myself. There are 4 different pages, 
 - The languages I have learned.
 - Projects I have worked on.
 
-## What's Inside "My Hobbies"
-- A list of hobbies and activities I enjoy.
-
-## What's Inside "My Achievements"
-- A list of accomplishments and things I am proud of.
-
 ## What's Inside "links"
 - Links to my social media accounts.
 
