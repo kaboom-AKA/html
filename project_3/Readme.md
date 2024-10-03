@@ -3,7 +3,6 @@
 This is a simple HTML webpage to introduce myself. There are 4 different pages, with 1 being the main home page and 4 additional pages used to showcase:
 - **About Me and Programming**
 - **My Hobbies**
-- **My Achievements**
 - **Links**
 
 ## What's Inside My Home Page:
