@@ -19,7 +19,7 @@ This is a simple HTML webpage to introduce myself. There are 4 different pages, 
 - Links to my social media accounts.
 
 ## Technologies Used
-- **HTML5**: For structuring the webpage.
+- **HTML5**: For structuring the webpage
 - **CSS (Inline Styling)**: Used for basic design and layout enhancements.
 
 ## Getting Started
