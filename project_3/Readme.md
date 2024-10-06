@@ -16,7 +16,7 @@ This is a simple HTML webpage to introduce myself. There are 4 different pages, 
 - Projects I have worked on.
 
 ## What's Inside "links"
-- Links to my social media accounts.
+- Links to my social media accounts
 
 ## Technologies Used
 - **HTML5**: For structuring the webpage
