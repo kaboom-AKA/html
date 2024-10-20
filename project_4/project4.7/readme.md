@@ -1,1 +1,1 @@
-learn about different css code for border
+learn about different css code for pseudo classes
