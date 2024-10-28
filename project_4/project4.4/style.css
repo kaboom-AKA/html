@@ -1,9 +1,10 @@
 body
 {
-    background-image: url(ai-generated-nature-landscapes-background-free-photo.jpg);
+background-image: url(ai-generated-nature-landscapes-background-free-photo.jpg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: left;
+background-size:cover;
 }
 
 h1
