@@ -2,3 +2,6 @@ body{
     color:red;
     background-color: aqua;
 }
+ input SELECT {
+    margin:40px;
+ }

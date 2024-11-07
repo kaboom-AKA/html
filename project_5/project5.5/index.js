@@ -1,13 +1,15 @@
-console.log(`hello`);
-console.log(`pizza`);
-console.log(`apple`);
-console.log(`orange`);
-window.alert(`this is an alret?`)
-window.alert(`i like pizza?`)
+var button = document.getElementById("button")
+var label = document.getElementById("label")
 
-//this is a comment
-document.getElementById("myH1").textContent ="Hello";
-document.getElementById("myP").textContent ="i like myself"
-/* this is a long comment 
-hello 
- */
+button.addEventListener("click",change_label1);
+button.addEventListener("dblclick",change_label2);
+
+function change_label1(){
+    label.innerHTML="";
+    label.innerHTML="you click 1 time";
+}
+
+function change_label2(){
+    label.innerHTML="";
+    label.innerHTML="you click 2 time";
+}
